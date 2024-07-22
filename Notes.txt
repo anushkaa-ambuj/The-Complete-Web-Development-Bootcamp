@@ -1,0 +1,17 @@
+1. HTML Documentation
+https://developer.mozilla.org/en-US/docs/Web/HTML
+
+2. CSS Documentation
+https://developer.mozilla.org/en-US/docs/Web/CSS
+
+3. CSS Colors
+Color Pallete: https://colorhunt.co/
+RGB Mixer: https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/
+https://developer.mozilla.org/en-US/docs/Web/CSS/named-color
+
+4. Fonts & Icons
+https://fonts.google.com/
+
+5. For Debugging <div> elements as well
+https://chromewebstore.google.com/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi?pli=1
+
